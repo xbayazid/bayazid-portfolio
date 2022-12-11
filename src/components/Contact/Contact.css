@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.contactBtn{
+    background-color: wheat;
+    padding: 10px 20px;
+    color: black;
+    border-bottom-right-radius: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.details{
+    font-family: 'Poppins', sans-serif;
+}
+
+.social-contact{
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}

@@ -1,4 +1,5 @@
 .resumeBtn{
     border: 3px solid goldenrod;
     padding: 10px 20px;
+    border-bottom-right-radius: 20px;
 }

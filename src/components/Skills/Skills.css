@@ -7,5 +7,7 @@
     border: 2px solid;
     padding: 10px;
     font-family: 'Inria Serif', serif;
+    border-top-left-radius: 8px;
+    border-bottom-right-radius: 8px;
     font-size: 25px;
 }
