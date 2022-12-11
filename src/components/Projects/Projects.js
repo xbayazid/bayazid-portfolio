@@ -1,9 +1,10 @@
 import React from "react";
 import doctor from "../../assets/projects/doctor.png";
+import './Project.css';
 
 const Projects = () => {
   return (
-    <div className="max-w-6xl mx-auto my-20 px-2">
+    <div className="max-w-6xl mx-auto my-20 px-2" id="projects">
       <h1 className="text-3xl section-title">PROJECTS</h1>
       <div className="grid gap-16 md:grid-cols-2 lg:grid-cols-3">
         <div>
@@ -24,7 +25,7 @@ const Projects = () => {
             <div className="badge badge-outline">MongoDB</div>
           </div>
           <div className="card-actions justify-center mt-2">
-      <button className="btn btn-primary">Live Site</button>
+      <a href="" className="projectBtn">Live Site</a>
     </div>
         </div>
       </div>
@@ -47,7 +48,7 @@ const Projects = () => {
             <div className="badge badge-outline">MongoDB</div>
           </div>
           <div className="card-actions justify-center mt-2">
-      <button className="btn btn-primary">Live Site</button>
+          <a href="" className="projectBtn">Live Site</a>
     </div>
         </div>
       </div>
@@ -70,7 +71,7 @@ const Projects = () => {
             <div className="badge badge-outline">MongoDB</div>
           </div>
           <div className="card-actions justify-center mt-2">
-      <button className="btn btn-primary">Live Site</button>
+          <a href="" className="projectBtn">Live Site</a>
     </div>
         </div>
       </div>

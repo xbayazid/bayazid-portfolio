@@ -6,7 +6,7 @@ import './Contact.css';
 
 const Contact = () => {
     return (
-        <div className='max-w-6xl mx-auto my-20 px-2'>
+        <div className='max-w-6xl mx-auto my-20 px-2' id='contact'>
             <h1 className="text-3xl section-title">GET IN TOUCH</h1>
             <div className='grid gap-6 md:grid-cols-1 lg:grid-cols-2 my-10'>
                 <div>

@@ -1,0 +1,14 @@
+.projectBtn{
+    background-color:moccasin;
+    padding: 10px 20px;
+    color: black;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+}
+
+.projectBtn:hover{
+    background-color: black;
+    color: white;
+}

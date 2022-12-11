@@ -4,7 +4,7 @@ import './Skills.css';
 
 const Skills = () => {
     return (
-        <div className='max-w-6xl mx-auto my-20 px-6'>
+        <div className='max-w-6xl mx-auto my-20 px-6' id='skills'>
             <h2 className="text-3xl section-title">SKILLS</h2>
             <div className='grid gap-5 md:grid-cols-2 lg:grid-cols-3 mt-10'>
                 <div className='skills-card'>

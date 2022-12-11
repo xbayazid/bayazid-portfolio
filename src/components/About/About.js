@@ -1,10 +1,11 @@
 import React from 'react';
-import { HiArrowDownTray } from "react-icons/hi2";
 import './About.css';
+import AOS from 'aos';
+import 'aos/dist/aos.css'
 
 const About = () => {
     return (
-        <div className='max-w-6xl mx-auto px-6'>
+        <div className='max-w-6xl mx-auto px-6' id='about'>
             <h3 className="text-primary md:text-2xl text-lg font-normal details">Hello, Myself</h3>
             <h1 className="text-3xl my-3 lg:text-7xl md:text-6xl font-extrabold lg:my-8">Md. Bayazid Hossain</h1>
             <h1 className="text-accent text-4xl my-4 lg:text-7xl md:text-6xl sm:text-4xl font-extrabold lg:my-8">I build responsive & eye catching website.</h1>
