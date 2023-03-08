@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const Navbar = () => {
     return (
@@ -11,9 +12,11 @@ const Navbar = () => {
           strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h16M4 18h7" /></svg>
       </label>
       <ul tabIndex={0} className="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52">
-        <li><a href='#about'>About Me</a></li>
+        <li><Link to='/'>Home</Link></li>
         <li><a href='#skills'>Skills</a></li>
         <li><a href='#projects'>Projects</a></li>
+        <li><a href='#aboutME'>About Me</a></li>
+        <li><Link to='/blogs'>Blogs</Link></li>
         <li><a href='#contact'>Contact</a></li>
       </ul>
     </div>

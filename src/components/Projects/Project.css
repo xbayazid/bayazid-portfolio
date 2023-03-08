@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+
+.projects-details{
+    font-family: 'Merriweather', serif;
+}
+
 .projectBtn{
     background-color:moccasin;
     padding: 10px 20px;
