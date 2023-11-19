@@ -8,8 +8,8 @@ const CvButton = () => {
                 <span class="absolute inset-0 flex items-center justify-center w-full h-full text-white duration-300 -translate-x-full bg-emerald-300 group-hover:translate-x-0 ease">
                     <img className='w-7' src={arrowImg} alt="" />
                 </span>
-                <span class="absolute flex items-center justify-center w-full h-full text-white transition-all duration-300 transform group-hover:translate-x-full ease">Download CV</span>
-                <span class="relative invisible">Download CV</span>
+                <span class="absolute flex items-center justify-center w-full h-full text-white transition-all duration-300 transform group-hover:translate-x-full ease">Download Resume</span>
+                <span class="relative invisible">Download Resume</span>
             </a>
         </div>
     );

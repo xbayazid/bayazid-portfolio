@@ -10,7 +10,7 @@ const CodersStackBox = () => {
         <h2 className="text-3xl project-title">CodersStackBox - Online Code Compiler</h2>
       </div>
       <h4 className='text-lg projects-details flex items-center mb-3'><HiOutlineViewGrid className='mr-2 hidden lg:block' />CodersStackBox is an collaboration project.</h4>
-      <h4 className='text-lg projects-details flex items-center mb-3'><HiOutlineViewGrid className='mr-2 hidden lg:block' />Where we had six member team.</h4>
+      <h4 className='text-lg projects-details flex items-center mb-3'><HiOutlineViewGrid className='mr-2 hidden lg:block' />Where we had six members team.</h4>
       <h4 className='text-lg projects-details flex items-center mb-3'><HiOutlineViewGrid className='mr-2 hidden lg:block' />For project management we used trello.</h4>
       <hr className='mb-3 lg:w-2/3' />
       <div className='leading-9 projects-details'>

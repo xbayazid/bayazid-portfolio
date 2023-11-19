@@ -43,7 +43,7 @@ const Projects = () => {
       </div>
         </div>
         {/* CodersStackBox end  */}
-        {/* Doctors portal start  */}
+        {/* Medwin Cares start  */}
         <div>
         <div className="card w-96 bg-base-100 shadow-xl my-10"  data-aos="zoom-in">
         <figure>
@@ -51,7 +51,7 @@ const Projects = () => {
         </figure>
         <div className="card-body">
           <h2 className="card-title details">
-            Doctors Portal
+            Medwin Cares
           </h2>
           <div className="card-actions">
             <div className="badge badge-outline">React.js</div>
@@ -62,7 +62,7 @@ const Projects = () => {
             <div className="badge badge-outline">MongoDB</div>
           </div>
           <div className="card-actions justify-around mt-2">
-          <a target="_blank" href="https://doctors-portal-5e83a.web.app/" className="projectBtn">Live Site</a>
+          <a target="_blank" href="https://medwin-cares-client.web.app/" className="projectBtn">Live Site</a>
       <Link to='/doctorsportal' className="projectBtn">Learn More</Link>
     </div>
         </div>
@@ -77,17 +77,18 @@ const Projects = () => {
         </figure>
         <div className="card-body">
           <h2 className="card-title details">
-            Denti Care
+            Favebook
           </h2>
           <div className="card-actions">
             <div className="badge badge-outline">React.js</div>
-            <div className="badge badge-outline">React-Bootstrap</div>
+            <div className="badge badge-outline">Tailwind CSS</div>
+            <div className="badge badge-outline">DaisyUI</div>
             <div className="badge badge-outline">Firebase</div>
             <div className="badge badge-outline">Node.js</div>
             <div className="badge badge-outline">MongoDB</div>
           </div>
           <div className="card-actions justify-around mt-2">
-      <a target="_blank" href="https://denti-care-f9f95.web.app/" className="projectBtn">Live Site</a>
+      <a target="_blank" href="https://favebook-client.web.app/" className="projectBtn">Live Site</a>
       <Link to="/denticare" className="projectBtn">Learn More</Link>
     </div>
         </div>

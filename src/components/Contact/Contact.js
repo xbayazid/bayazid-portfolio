@@ -27,7 +27,7 @@ const Contact = () => {
                 
                 <div className='social-contact'  data-aos="fade-up-left">
                     <p className='mb-5 flex items-center'><HiMail className='mr-2'></HiMail> bayazid.developer@gmail.com</p>
-                    <p className='mb-5 flex items-center'><HiOutlinePhone className='mr-2'></HiOutlinePhone> +8801851-993828</p>
+                    <p className='mb-5 flex items-center'><HiOutlinePhone className='mr-2'></HiOutlinePhone> +8801924-069187</p>
                     <p className='mb-5 flex items-center contact-link'><FaGithubAlt className='mr-2'></FaGithubAlt> <a target="_blank" href="https://github.com/xbayazid?tab=repositories"> xbayazid</a> </p>
                     <p className='mb-5 contact-link flex items-center'><FaLinkedinIn className='mr-2'></FaLinkedinIn> <a target="_blank" href="https://www.linkedin.com/in/md-bayazid-hossain/"> md-bayazid-hossain</a></p>
                     <p className='mb-5 contact-link flex items-center'><FaFacebookF className='mr-2'></FaFacebookF> <a target="_blank" href="https://www.facebook.com/xbayazid"> Bayazid Hossain</a></p>
